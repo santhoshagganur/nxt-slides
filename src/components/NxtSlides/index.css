@@ -1,0 +1,54 @@
+.header-container {
+  background-color: #f8fafc;
+  padding: 15px;
+  display: flex;
+}
+
+.app-logo {
+  height: 50px;
+  background-size: cover;
+}
+
+.app-name {
+  font-family: Bree Serif;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.new-button {
+  border-width: 0;
+  background-color: #f8fafc;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.new-icon {
+  height: 10px;
+  background-size: cover;
+  margin-right: 10px;
+}
+
+.main-container {
+  display: flex;
+  padding: 20px;
+}
+
+.tabs-container {
+  list-style-type: none;
+  background-color: #f8fafc;
+}
+
+.display-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-slides/nxt-slides-bg.png');
+  height: 500px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-element {
+  border-width: 0;
+  margin-bottom: 15px;
+}
